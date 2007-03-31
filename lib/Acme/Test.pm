@@ -212,22 +212,18 @@ Then the resulting test output would look pretty much like this:
 
 In code this funky, I'm sure there are some ;)
 
+=head1 BUG REPORTS
+
+Please report bugs or other issues to E<lt>bug-acme-test@rt.cpan.org<gt>.
+
 =head1 AUTHOR
 
-This module by
-Jos Boumans E<lt>kane@cpan.orgE<gt>.
-
+This module by Jos Boumans E<lt>kane@cpan.orgE<gt>.
 
 =head1 COPYRIGHT
 
-This module is
-copyright (c) 2002 Jos Boumans E<lt>kane@cpan.orgE<gt>.
-All rights reserved.
-
-This library is free software;
-you may redistribute and/or modify it under the same
-terms as Perl itself.
-
+This library is free software; you may redistribute and/or modify it 
+under the same terms as Perl itself.
 =cut
 
 1;
